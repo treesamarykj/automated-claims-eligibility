@@ -1,0 +1,5 @@
+claim_id,policy_number,claim_amount,claim_status,date_filed
+1,P12345,1000,Approved,10/1/2025
+2,P67890,500,Pending,10/3/2025
+3,P54321,1200,Rejected,10/5/2025
+4,P32832,1600,Approved,10/12/2025
