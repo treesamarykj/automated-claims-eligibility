@@ -5,7 +5,6 @@ import pandas as pd
 # checking current path
 current_path = os.getcwd()
 print("Current path--->",current_path)
-print("**100")
 
 # loading the data set
 df = pd.read_csv('../data/claims_sample.csv')
